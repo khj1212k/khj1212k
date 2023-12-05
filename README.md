@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Kim, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
+### I am Kim, Korean International sudent in Fudan University in Shanghai China
 
 ### About me
 
